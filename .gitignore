@@ -1,0 +1,11 @@
+# Sanal Ortam (Virtual Environment)
+.venv/
+venv/
+
+# Python Geçici Dosyaları
+__pycache__/
+*.pyc
+
+# MLflow ve Veri Logları
+mlruns/
+*.log

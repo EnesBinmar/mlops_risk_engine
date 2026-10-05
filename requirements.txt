@@ -1,0 +1,7 @@
+kafka-python
+torch
+numpy
+pandas
+mlflow
+fastapi
+uvicorn
