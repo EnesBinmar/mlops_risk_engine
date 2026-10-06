@@ -9,3 +9,7 @@ __pycache__/
 # MLflow ve Veri Logları
 mlruns/
 *.log
+#.venv içerisindeki gitignore dosyası venv içinde olup git tarafından ignore edilecek şeylerin listesini tutarken
+#ana dosya içerisindeki gitignore dosyamız ana dosya içinde indirdiğimiz kütüphane ve diğer ignore edilecek şeylerin listesini tutuyor
+#data
+data/
