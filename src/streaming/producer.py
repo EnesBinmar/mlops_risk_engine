@@ -17,3 +17,5 @@ for index , row in df.iterrows():
     producer.send(topic='transactions',value=transaction)
     print(f'Data is sending kafka "Transactions" topic data which is sent {index}')
     time.sleep(1)
+
+#ilk olarak consumer kanalı dinlemeli sonra producer çalıştırmalı yani ilk olarak dinleme aktif edilmeli      
