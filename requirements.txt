@@ -5,3 +5,7 @@ pandas
 mlflow
 fastapi
 uvicorn
+matplotlib
+seaborn
+researchpy
+sklearn
