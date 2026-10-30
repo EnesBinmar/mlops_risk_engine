@@ -9,3 +9,5 @@ matplotlib
 seaborn
 researchpy
 sklearn
+fastapi
+joblib
