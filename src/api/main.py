@@ -6,6 +6,7 @@ from contextlib import asynccontextmanager
 from pathlib import Path
 import numpy as np
 import tensorflow as tf
+from api.schemas import DataModel
 
 ROOT_DIR = Path(__file__).parent.parent.parent
 print(ROOT_DIR)
